@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 60px;
+    border-left: 6px solid #35afff;
+    padding-left: 15px;
+    font-weight: 400;
+}
+h2{
+    font-size: 36px;
+    text-align: center;
+}
+div h2{
+    text-align: start;
+}
+a{
+    text-decoration: none;
+    background-color: #02367c;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 20px 10px 20px;
+}
+.name-style{
+    color: #02367c;
+    font-weight: 600;
+}
+img{
+    width: 100%;
+}
+.flexible-container{
+    display: flex;
+    padding: 40px 80px 80px 80px;
+    align-items: center;
+}
+.section-width{
+    width: 50%;
+    padding: 0px 50px 0px 50px;
+}
+.mission-style{
+    color: #35afff;
+}
+.mission-images{
+    width: 18%;
+    padding-left: 10px;
+}
+.mission-border{
+    background-color: #d6edff;
+    border-radius: 15px;
+    margin: 0px 10px 0px 50px;
+    padding: 50px 30px 50px 30px;
+}
+.vission-border{
+    background-color: #97ccff;
+    border-radius: 15px;
+    margin: 0px 10px 0px 50px;
+    padding: 50px 30px 50px 30px;
+}
+.goal-border{
+    background-color: #35afff;
+    border-radius: 15px;
+    margin: 0px 10px 0px 50px;
+    padding: 50px 30px 50px 30px;
+}
+h4{
+    font-size: 24px;
+}
+.contact-info{
+    background-color: #35afff;
+    border-radius: 15px;
+    margin: 0px 10px 0px 50px;
+    padding: 40px 60px 60px 60px;
+    text-align: center;
+}
+.get-touch{
+    font-size: 30px;
+    padding-bottom: 30px;
+    border-bottom: 2px solid white;
+}
+.icon{
+    width: 60px;
+    align-items: center;
+}
+.text{
+    color: white;
+}
+footer{
+    text-align: center;
+    background-color: #02367c;
+    padding: 70px 0px 70px 0px;
+}
+footer h4{
+    font-size: 36px;
+    color: white;
+}
+.footer-style{
+    color: #35afff;
+}
+footer p{
+    color: white;
+}
